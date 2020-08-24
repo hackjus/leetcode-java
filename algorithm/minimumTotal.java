@@ -50,6 +50,7 @@ public class minimumTotal {
         		Arrays.asList(6,5,7),
         		Arrays.asList(4,1,8,3)
         		));
+		System.out.println(11);
 	}
 
 }
